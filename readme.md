@@ -4,3 +4,4 @@ This is a sample project structure:
 - Word Documents
 - Applications
 - Requests
+- small change
